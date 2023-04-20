@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 *main- prit the following
-*return - should give 0
+*return: should give 0
 */
 
 int main(void)
