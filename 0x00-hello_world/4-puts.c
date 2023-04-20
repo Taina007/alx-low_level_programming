@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void)
 /**
-*main - this is the begigning
+*main - first operand
 *return- 0
 */
 {
