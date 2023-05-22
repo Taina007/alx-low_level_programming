@@ -6,7 +6,7 @@
  */
 int main (void)
 {
-	printf("the name of the dile this was compiled from is:%s \n",__FILE__);
+	printf("the name of the dile this was compiled from is:%s\n",__FILE__);
 	return (0);
 
 }
